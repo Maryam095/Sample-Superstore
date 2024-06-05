@@ -4,5 +4,5 @@ The primary aim of this project is to analyze sales data from different states i
 ### Data Source
 This dataset was gotten from
 #### Tools
-1.Excel - This was used to make a quick check of the dataset
+- Excel - This was used to make a quick check of the dataset
 Power BI - This was used to clean the dataset, analyse,extract insight, visualize and draw conclusion
