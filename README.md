@@ -6,7 +6,7 @@ This dataset was gotten from Kaggle.com as csv file.
 ## Tools
 - Excel - This was used for data cleaning, data wrangling and litte analysis of the dataset.
 - Power BI - This was used for EDA (Exploratory Data Analysis), analyse,extract insight, visualize and draw conclusion.
-  ## Data Preparation
+ ## Data Preparation
   These are data preparation steps;
   - Data Cleaning : Autofit Row/Column Width, Filtering, Renamed columns, replace missing values
   - Data Loading : Extract, Transform and Load data,
@@ -17,3 +17,5 @@ This dataset was gotten from Kaggle.com as csv file.
   - The top 10 states
   - The bottom 10 states
   - Orders shipped to top 10 states .... and many more
+ 
+    
