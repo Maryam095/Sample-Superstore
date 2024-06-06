@@ -23,9 +23,14 @@ This dataset was gotten from Kaggle.com as csv file.
   - Total sales over the period amounts to $2,297,200.86
   - The top 10 states are;California,Newyork,Texas,Washington,Pennsylvana,Florida,Illinois,Ohio,Michigan,Virginia.
   - The bottom 10 states are;North dakota,West virginia,Maine,South dakota,Wyoming,District of columbia,Kansas,Idaho,Iowa,New mexico.
-  - Orders are shipped to top 10 ststes based on their shipmode (First class, Sameday, Second class, Standard class)
+  - Orders are shipped to top 10 ststes based on their shipmode (First class, Sameday, Second class, Standard class).
  ## Recommendations
- Based on the analysis, The following are recommended;
- - 
+   Based on the analysis, The following are recommended;
+   1- Concentrate marketing activities on sections and districts that are delivering hihger performance.
+   2- Utilize more marketing strategies for high profit or best selling products.
+   3- Optimize the process of supply chains to cut costs and speed up delivery.
+   4- Predictive analysis can be used for forecasting demand and the inventory levels will be updated accordingly.
+   ### References
+   Kaggle.com
     
     
