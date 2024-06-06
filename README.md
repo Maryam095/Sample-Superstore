@@ -30,7 +30,7 @@ This dataset was gotten from Kaggle.com as csv file.
    2. Utilize more marketing strategies for high profit or best selling products.
    3. Optimize the process of supply chains to cut costs and speed up delivery.
    4. Predictive analysis can be used for forecasting demand and the inventory levels will be updated accordingly.
-   ### References
+   ### Reference
    Kaggle.com
     
     
