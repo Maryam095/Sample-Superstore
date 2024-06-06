@@ -18,7 +18,7 @@ This dataset was gotten from Kaggle.com as csv file.
   - The bottom 10 states
   - Orders shipped to top 10 states .... and many more
  ### Results/Findings
-    The analysis results are summarized as follows;
+   The analysis results are summarized as follows;
   - Total transactions over the period of time amounts to 5009
   - Total sales over the period amounts to $2,297,200.86
   - The top 10 states are;California,Newyork,Texas,Washington,Pennsylvana,Florida,Illinois,Ohio,Michigan,Virginia.
