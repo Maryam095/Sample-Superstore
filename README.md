@@ -25,7 +25,7 @@ This dataset was gotten from Kaggle.com as csv file.
   - The bottom 1o states are;North dakota,West virginia,Maine,South dakota,Wyoming,District of columbia,Kansas,Idaho,Iowa,New mexico.
   - Orders are shipped to top 10 ststes based on their shipmode (First class, Sameday, Second class, Standard class)
  ## Recommendations
- Based on the analysis, The following are recommended
- 1. 
+ Based on the analysis, The following are recommended;
+ - 
     
     
