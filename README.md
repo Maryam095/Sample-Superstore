@@ -18,14 +18,14 @@ This dataset was gotten from Kaggle.com as csv file.
   - The bottom 10 states
   - Orders shipped to top 10 states .... and many more
  ### Results/Findings
- The analysis results are summarized as follows;
- Total transactions over the period of time amounts to 5009
- Total sales over the period amounts to $2,297,200.86
- The top 10 states are;California,Newyork,Texas,Washington,Pennsylvana,Florida,Illinois,Ohio,Michigan,Virginia.
- The bottom 1o states are;North dakota,West virginia,Maine,South dakota,Wyoming,District of columbia,Kansas,Idaho,Iowa,New mexico.
- Fist class, Sameday, Second class, Standard class
+  - The analysis results are summarized as follows;
+  - Total transactions over the period of time amounts to 5009
+  - Total sales over the period amounts to $2,297,200.86
+  - The top 10 states are;California,Newyork,Texas,Washington,Pennsylvana,Florida,Illinois,Ohio,Michigan,Virginia.
+  - The bottom 1o states are;North dakota,West virginia,Maine,South dakota,Wyoming,District of columbia,Kansas,Idaho,Iowa,New mexico.
+  - Orders are shipped to top 10 ststes based on their shipmode (First class, Sameday, Second class, Standard class)
  ## Recommendations
- Based on the analysis, The following is recommended
+ Based on the analysis, The following are recommended
  1. 
     
     
